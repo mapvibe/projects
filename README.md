@@ -1,5 +1,5 @@
 # Public Projects Repository
-***This repository holds a collection of Jupyter notebooks, packages and other resources to share.***
+***This repository contains a collection of Jupyter notebooks, datasets, packages and other resources to share.***
 ## IBM Data Science Professional Certification Capstone Project
 Located in projects/IBMDataScienceCapstone
 ### Notebooks and Datasets
