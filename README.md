@@ -14,5 +14,8 @@ Located in projects/IBMDataScienceCapstone
 * ExploratoryDataAnalysisSQL.ipynb -- Several simple SQL queries used for analysis  
 * my_data1.db -- SQLlite Database used in ExploratoryDataAnalysisSQL.ipynb  
 * LaunchSiteAnalysisMapping.ipynb -- Geospatial analysis and mapping using Folium  
+* ibm_spacex_slides.html -- An exercise in automating the slides for the project using Claude.  
+* spacex-dash-app_cloudenvironment.py -- Plotly Dash Dashboard showcasing landing success rates and payload correlation for each lauch site  
+
 
 
