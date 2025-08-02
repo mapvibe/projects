@@ -16,7 +16,9 @@ Located in projects/IBMDataScienceCapstone
 * LaunchSiteAnalysisMapping.ipynb -- Geospatial analysis and mapping using Folium  
 * ibm_spacex_slides.html -- An exercise in automating the slides for the project using Claude.  
 * spacex-dash-app_cloudenvironment.py -- Plotly Dash Dashboard showcasing landing success rates and payload correlation for each lauch site  
-* PredictiveModeling.ipynb -- The prediction part....the good stuff
+* PredictiveModeling.ipynb -- The prediction part....the good stuff  
+* DataScienceCapstoneProjecGregoryGunther.pdf -- Final presentation in pdf format  
+* DataScienceCapstoneProjecGregoryGunther.pptx -- Final presentation in Powerpoint Format  
 
 
 
