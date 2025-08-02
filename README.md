@@ -10,6 +10,9 @@ Located in projects/IBMDataScienceCapstone
 * WebScraping.ipynb -- an exercise in webscraping content from a Wikipedia page using using Beautiful Soup  
 * BeautifulSoupspacex_web_scraped.csv -- output from WebScraping.ipynb  
 * ExploratoryDataAnalysisVisualization.ipynb -- Visualizing the data using panda, numpy, matplotlib and seaborn    
-* dataset_part_3.csv -- Output dataset for ExploratoryDataAnalysisVisualization.ipynb    
+* dataset_part_3.csv -- Output dataset for ExploratoryDataAnalysisVisualization.ipynb  
+* ExploratoryDataAnalysisSQL.ipynb -- Several simple SQL queries used for analysis  
+* my_data1.db -- SQLlite Database used in ExploratoryDataAnalysisSQL.ipynb  
+* LaunchSiteAnalysisMapping.ipynb -- Geospatial analysis and mapping using Folium  
 
 
